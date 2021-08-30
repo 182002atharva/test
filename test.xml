@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system">
+	<name>test</name>
+	<version>3.1.0</version>
+	<description>PLG_SEARCH_CATEGORIES_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="test">test.php</filename>
+	</files>
+</extension>
